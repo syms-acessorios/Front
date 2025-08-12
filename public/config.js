@@ -1,2 +1,2 @@
-window.IP_SERVER = "http://localhost:21465/api/";
-window.IP_SOCKET_IO = "http://localhost:21465/";
+window.IP_SERVER = "https://server-hf2t.onrender.com/api/";
+window.IP_SOCKET_IO = "https://server-hf2t.onrender.com/";
